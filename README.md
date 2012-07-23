@@ -13,10 +13,10 @@ Clone the Repository.
 	git clone https://github.com/crusador/pacman-vb6
 	
 ##Running:
-Just execute the Pacman.exe file from Executables directory.
+Just execute the "Pacman.exe" file from "Executable" directory.
 
 ##Copyright and Licence
 
 2012 [JAKWorks] (http://www.facebook.com/JAKWorks)
 
-Broken Links Finder by JAKWorks is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+Pacman by JAKWorks is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
